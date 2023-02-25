@@ -1,4 +1,4 @@
 
 # Language : Python
 
-* In Jupitor NoteBook
+* In Jupytor Notebook
